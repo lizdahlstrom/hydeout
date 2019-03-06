@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Liz Dahlström
+title:            'Liz Dahlström'
 tagline:          'Software Developer'
-description:      Software Developer
+description:      'Software Developer'
 url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
