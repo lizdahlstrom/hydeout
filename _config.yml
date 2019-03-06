@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            'Liz Dahlström'
 tagline:          'Software Developer'
 description:      'Software Developer'
-url:              https://lizdahlstrom.github.io
+url:              https://lucid-wescoff-ac05f9.netlify.com
 baseurl:          ""
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
