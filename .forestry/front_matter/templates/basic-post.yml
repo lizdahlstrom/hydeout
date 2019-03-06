@@ -1,0 +1,17 @@
+---
+label: Basic post
+hide_body: false
+fields:
+- type: text
+- type: text
+  name: textfield
+  label: TextField
+  default: Today I learned...
+- type: textarea
+  name: textarea
+  label: TextArea
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  default: "<p>Hello there.</p>"
