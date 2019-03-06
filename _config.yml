@@ -11,6 +11,7 @@ url:              https://lizdahlstrom.github.io
 author:
   name:           'Liz Dahlström'
   url:            https://twitter.com/lizdahlstrom
+  baseurl:        '/'
 
 paginate:         5
 # paginate_path:    '/page:num'
