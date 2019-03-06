@@ -6,12 +6,17 @@ highlighter:      rouge
 title:            Liz Dahlström
 tagline:          'Software Developer'
 description:      Software Developer
-url:              https://lizdahlstrom.github.io
+url:              https://fongandrew.github.io
+baseurl:          '/'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
 author:
   name:           'Liz Dahlström'
   url:            https://twitter.com/lizdahlstrom
-  baseurl:        '/'
 
 paginate:         5
 # paginate_path:    '/page:num'
